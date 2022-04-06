@@ -4,7 +4,7 @@
   kind: page
   children: []
 - title: Team
-  target: "/team/"
+  target: "/home/team/"
   kind: page
   children: []
 
