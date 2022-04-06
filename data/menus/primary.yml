@@ -1,14 +1,10 @@
 ---
 - title: Programme
-  target: "/programme/"
+  target: "/home/programme/"
   kind: page
   children: []
 - title: Team
-  target: "/team/"
-  kind: page
-  children: []
-- title: About
-  target: "/about/"
+  target: "/home/team/"
   kind: page
   children: []
 
