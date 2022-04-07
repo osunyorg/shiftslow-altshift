@@ -1,5 +1,8 @@
-# Osuny hugo template
+# AltShift 
 
+## Maquettes
+
+https://www.figma.com/file/1eAUThzx9FhG2zkHaPBFoD/Alt-Shift?node-id=0%3A1
 
 ## Hugo
 Pour installer Hugo
@@ -17,7 +20,7 @@ https://github.com/noesya/osuny-hugo-template
 
 Pour faire la mise à jour :
 ```
-git remote add template git@github.com:noesya/osuny-hugo-template.git
+git remote add template git@github.com:noesya/shiftslow-altshift.git
 git fetch --all
 git merge template/main --allow-unrelated-histories
 ```
