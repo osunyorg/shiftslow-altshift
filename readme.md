@@ -61,3 +61,8 @@ cookie_banner:
   blank: true
   page: https://gdpr.eu/cookies/
 ```
+
+### Notes
+
+- Comment changer simplement la font du body ?
+- Quel outil pour générer les favicons ?
