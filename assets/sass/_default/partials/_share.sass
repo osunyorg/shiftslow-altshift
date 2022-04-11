@@ -1,10 +1,24 @@
 .share
-    background:
-        image: url('../images/leaf.png')
-        position: top right
-        repeat: no-repeat
-        size: auto 180px
     padding-right: calc(50% + 12px)
+    position: relative
+    &::after
+        background:
+            image: url('../images/leaf.png')
+            repeat: no-repeat
+            size: cover
+        content: ''
+        display: block
+        height: 180px
+        position: absolute
+        right: 0
+        top: 10px
+        width: 130px
+        @include media-breakpoint-down(md)
+            height: 160px
+            top: -20px
+            transform: rotate(-75deg)
+            width: 100px
+
     @include media-breakpoint-up(md)
         text-align: right
     .h3
@@ -17,6 +31,9 @@
         @include media-breakpoint-up(md)
             display: block
             margin-bottom: px2rem(26)
+            .icon, span
+                display: inline-block
+                vertical-align: middle
         @include media-breakpoint-down(md)
             span
                 display: none
@@ -25,6 +42,4 @@
         .icon
             color: $red
             margin-left: 5px
-        .icon, span
-            display: inline-block
-            vertical-align: middle
+        
