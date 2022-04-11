@@ -4,10 +4,25 @@ header[role=banner]
         position: fixed
         right: 0
         top: 0
-    .logo img
-        height: 100px
-        margin-bottom: -100px
-        vertical-align: top
+    .logo
+        z-index: 3 
+        img
+            height: 100px
+            margin-bottom: -100px
+            vertical-align: top
     .navbar
         > .container
             align-items: start
+
+    .menu
+        background: $white
+        text-align: right
+        > ul
+            @include media-breakpoint-down(md)
+                padding-right: 34px
+    nav[role=navigation] 
+        button[type=button]
+            z-index: 3
+            span:first-of-type
+                font-size: px2rem(20)
+                text-transform: none

@@ -1,24 +1,10 @@
 .share
-    padding-right: calc(50% + 12px)
+    margin-bottom: 0
+    overflow: hidden
+    padding-bottom: map-get($spacers, 4)
     position: relative
-    &::after
-        background:
-            image: url('../images/leaf.png')
-            repeat: no-repeat
-            size: cover
-        content: ''
-        display: block
-        height: 180px
-        position: absolute
-        right: 0
-        top: 10px
-        width: 130px
-        @include media-breakpoint-down(md)
-            height: 160px
-            top: -20px
-            transform: rotate(-75deg)
-            width: 100px
-
+    > div
+        padding-right: calc(50% + 12px)
     @include media-breakpoint-up(md)
         text-align: right
     .h3
@@ -42,4 +28,20 @@
         .icon
             color: $red
             margin-left: 5px
-        
+    &::after
+        background:
+            image: url('../images/leaf.png')
+            repeat: no-repeat
+            size: cover
+        content: ''
+        display: block
+        height: 180px
+        position: absolute
+        right: 0
+        top: 10px
+        width: 130px
+        @include media-breakpoint-down(md)
+            height: 160px
+            top: -20px
+            transform: rotate(-75deg)
+            width: 100px
