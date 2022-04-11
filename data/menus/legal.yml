@@ -1,2 +1,6 @@
---- []
+---
+- title: Legal
+  target: "/legal/"
+  kind: page
+  children: []
 
