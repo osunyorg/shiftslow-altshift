@@ -1,0 +1,30 @@
+.share
+    background:
+        image: url('../images/leaf.png')
+        position: top right
+        repeat: no-repeat
+        size: auto 180px
+    padding-right: calc(50% + 12px)
+    @include media-breakpoint-up(md)
+        text-align: right
+    .h3
+        font-style: italic
+        margin-bottom: px2rem(26)
+    a
+        font-size: px: 2rem(18)
+        line-height: px2rem(24)
+        text-decoration: none
+        @include media-breakpoint-up(md)
+            display: block
+            margin-bottom: px2rem(26)
+        @include media-breakpoint-down(md)
+            span
+                display: none
+        &::after
+            display: none
+        .icon
+            color: $red
+            margin-left: 5px
+        .icon, span
+            display: inline-block
+            vertical-align: middle

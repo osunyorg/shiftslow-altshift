@@ -1,0 +1,24 @@
+{{ define "main" }}
+  {{ partial "pages/hero.html" . }}
+
+  {{- $category := site.GetPage (printf "/categories%s" .Params.category) -}}
+  <div class="container">
+    <div class="content mt-4">
+
+      {{ partial "pages/share.html"
+          (dict
+              "category" $category
+              "context" .
+          )
+      }}
+
+      <div>
+        {{ partial "pages/body.html" . }}
+
+        {{ partial "blocks/list.html" .Params.blocks }}
+
+        {{ partial "posts/related.html" $category }}
+      </div>
+    </div>
+  </div>
+{{ end }}

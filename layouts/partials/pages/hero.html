@@ -1,0 +1,18 @@
+<header class="hero">
+  {{- if .Params.image }}
+    {{ partial "commons/image.html"
+        (dict
+          "image"    .Params.image
+          "alt"      .Title
+          "mobile"   "351x168"
+          "tablet"   "456x219"
+          "desktop"  "856x410"
+          "lazy"     false
+        ) }}
+  {{ end -}}
+  <div class="container">
+    <h1>{{ safeHTML (partial "CorrectPunctuation" .Title) }}</h1>
+    <h2>{{ safeHTML (partial "CorrectPunctuation" .Params.header_text) }}</h2>
+    {{ partial "header/breadcrumbs.html" . }}
+  </div>
+</header>
