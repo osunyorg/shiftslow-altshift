@@ -12,7 +12,9 @@
   {{ end -}}
   <div class="container">
     <h1>{{ partial "PrepareHTML" .Title }}</h1>
-    <h2>{{ partial "PrepareHTML" .Params.header_text }}</h2>
+    {{ if .Params.header_text }}
+      <h2>{{ partial "PrepareHTML" .Params.header_text }}</h2>
+    {{ end }}
     {{ partial "header/breadcrumbs.html" . }}
   </div>
 </header>
