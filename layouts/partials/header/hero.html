@@ -1,19 +1,22 @@
-<header class="hero">
-  {{- if .image }}
+{{ with .context }}
+<header class="hero {{- if not .Params.image }} hero--without-image {{ end }}">
+  {{- if .Params.image }}
     {{ partial "commons/image.html"
         (dict
-          "image"    .image
-          "alt"      .title
-          "mobile"   "351x168"
-          "tablet"   "456x219"
-          "desktop"  "856x410"
+          "image"    .Params.image
+          "alt"      .Title
+          "mobile"   "351"
+          "tablet"   "456"
+          "desktop"  "856"
           "lazy"     false
         ) }}
   {{ end -}}
   <div class="container">
-    <div>
-      <h1>{{ safeHTML (partial "CorrectPunctuation" .title) }}</h1>
-    </div>
-    {{ partial "header/breadcrumbs.html" .context }}
+    <h1>{{ partial "PrepareHTML" .Title }}</h1>
+    {{ if .Params.header_text }}
+      <h2>{{ partial "PrepareHTML" .Params.header_text }}</h2>
+    {{ end }}
+    {{ partial "header/breadcrumbs.html" . }}
   </div>
 </header>
+{{ end }}
