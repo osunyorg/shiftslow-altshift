@@ -1,5 +1,9 @@
 # AltShift 
 
+## Staging
+
+https://shiftslow-altshift.netlify.app/
+
 ## Maquettes
 
 https://www.figma.com/file/1eAUThzx9FhG2zkHaPBFoD/Alt-Shift?node-id=0%3A1
@@ -61,8 +65,3 @@ cookie_banner:
   blank: true
   page: https://gdpr.eu/cookies/
 ```
-
-### Notes
-
-- Comment changer simplement la font du body ?
-- Quel outil pour générer les favicons ?
