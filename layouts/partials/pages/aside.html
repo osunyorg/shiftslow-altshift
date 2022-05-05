@@ -1,0 +1,13 @@
+{{- $category := site.GetPage (printf "/categories%s" .Params.category) -}}
+
+<aside>
+  <div>
+    {{ partial "commons/share.html"
+      (dict
+          "category" $category
+          "context" .
+      )
+    }}
+  </div>
+</aside>
+  
