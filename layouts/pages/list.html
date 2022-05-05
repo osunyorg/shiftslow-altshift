@@ -2,23 +2,19 @@
   {{ partial "pages/hero.html" . }}
 
   {{- $category := site.GetPage (printf "/categories%s" .Params.category) -}}
-  <div class="container">
-    <div class="content mt-4">
 
-      {{ partial "commons/share.html"
-          (dict
-              "category" $category
-              "context" .
-          )
-      }}
+  <div>
+    {{ partial "pages/aside.html"
+        (dict
+            "category" $category
+            "context" .
+        )
+    }}
 
-      <div>
-        {{ partial "pages/body.html" . }}
-
-        {{ partial "blocks/list.html" .Params.blocks }}
-
-        {{ partial "posts/related.html" $category }}
-      </div>
-    </div>
+    {{/* TODO: DELETE IT */}} {{ partial "pages/body.html" .Content }}
+    {{ partial "pages/children.html" .Params.children }}
+    {{ partial "blocks/list.html" .Params.blocks }}
+    {{ partial "posts/related.html" $category }}
   </div>
+
 {{ end }}
