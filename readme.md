@@ -34,7 +34,7 @@ git merge template/main --allow-unrelated-histories
 
 Pour cloner avec le thème
 ```
-git clone git@github.com:noesya/osuny-hugo-template.git --recurse-submodules
+git clone git@github.com:noesya/shiftslow-altshift.git --recurse-submodules
 ```
 Pour récupérer le thème
 ```
