@@ -2,3 +2,6 @@
 	path = themes/osuny-hugo-theme
 	url = git@github.com:noesya/osuny-hugo-theme.git
 	branch = architecture/style-2
+[submodule "osuny-example"]
+	path = osuny-example
+	url = https://github.com/noesya/osuny-example
