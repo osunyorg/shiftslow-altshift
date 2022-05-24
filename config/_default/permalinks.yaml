@@ -1,4 +1,1 @@
-posts:          /actualites/:year/:month/:day/:slug/
-categories:     /actualites/:slug/
 persons:        /equipe/:slug/
-authors:        /equipe/:slug/actualites/
