@@ -7,8 +7,8 @@
   target: "/team/"
   kind: page
   children: []
-- title: Contact
-  target: "/contact/"
+- title: Location
+  target: "/location/"
   kind: page
   children: []
 
