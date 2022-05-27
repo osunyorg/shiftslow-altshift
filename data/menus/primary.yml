@@ -11,10 +11,6 @@
   target: "/location/"
   kind: page
   children: []
-- title: What is degrowth?
-  target: "/what-is-degrowth/"
-  kind: page
-  children: []
 - title: Contact
   target: "/contact/"
   kind: page
