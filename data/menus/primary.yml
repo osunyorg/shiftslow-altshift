@@ -15,4 +15,8 @@
   target: "/contact/"
   kind: page
   children: []
+- title: Manifesto
+  target: "/manifesto/"
+  kind: page
+  children: []
 
