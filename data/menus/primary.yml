@@ -15,4 +15,8 @@
   target: "/contact/"
   kind: page
   children: []
+- title: Tickets
+  target: "/tickets/"
+  kind: page
+  children: []
 
