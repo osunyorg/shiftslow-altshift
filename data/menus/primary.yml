@@ -11,12 +11,12 @@
   target: "/location/"
   kind: page
   children: []
-- title: Contact
-  target: "/contact/"
-  kind: page
-  children: []
 - title: Tickets
   target: "/tickets/"
+  kind: page
+  children: []
+- title: Contact
+  target: "/contact/"
   kind: page
   children: []
 
