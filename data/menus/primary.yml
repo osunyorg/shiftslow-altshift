@@ -3,12 +3,12 @@
   target: "/programme/"
   kind: page
   children: []
-- title: Location
-  target: "/location/"
-  kind: page
-  children: []
 - title: Tickets
   target: "/tickets/"
+  kind: page
+  children: []
+- title: Location
+  target: "/location/"
   kind: page
   children: []
 - title: Team
