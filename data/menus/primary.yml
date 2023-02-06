@@ -19,8 +19,4 @@
   target: "/contact/"
   kind: page
   children: []
-- title: Germinar-t.
-  target: "/projects/"
-  kind: page
-  children: []
 
