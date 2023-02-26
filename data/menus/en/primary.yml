@@ -1,4 +1,6 @@
 ---
+title: Primary menu
+items:
 - title: Degrowth
   target: "/degrowth/"
   kind: page
