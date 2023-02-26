@@ -25,4 +25,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: 2023 Edition
+  target: ''
+  kind: blank
+  children: []
 
