@@ -25,8 +25,4 @@ items:
   target: "/contact/"
   kind: page
   children: []
-- title: 2023 Edition
-  target: "/programme/"
-  kind: page
-  children: []
 
