@@ -1,0 +1,11 @@
+.block-pages 
+    .grid,
+    .cards
+        article
+            .media
+                img
+                    aspect-ratio: auto
+@media(min-width: 1280px)
+    main > .blocks .block-pages--grid .grid, 
+    body.full-width .block-pages--grid .grid
+        grid-template-columns: repeat(4, 1fr)
