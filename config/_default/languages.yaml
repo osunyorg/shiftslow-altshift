@@ -6,3 +6,4 @@ en:
   languageCode: en
   languageName: English
   permalinks:
+    persons: /equipe/:slug/
