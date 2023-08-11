@@ -25,4 +25,8 @@ items:
   target: "/donate/"
   kind: page
   children: []
+- title: Programme 2023
+  target: ''
+  kind: blank
+  children: []
 
