@@ -28,9 +28,5 @@ items:
 - title: Programme 2023
   target: ''
   kind: blank
-  children:
-  - title: Programme
-    target: ''
-    kind: blank
-    children: []
+  children: []
 
