@@ -1,10 +1,6 @@
 ---
 title: Primary menu
 items:
-- title: Programme 2023
-  target: ''
-  kind: blank
-  children: []
 - title: Degrowth
   target: "/degrowth/"
   kind: page
