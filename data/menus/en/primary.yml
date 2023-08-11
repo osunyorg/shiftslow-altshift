@@ -1,6 +1,10 @@
 ---
 title: Primary menu
 items:
+- title: Programme 2023
+  target: "/programme-2023/"
+  kind: page
+  children: []
 - title: Degrowth
   target: "/degrowth/"
   kind: page
