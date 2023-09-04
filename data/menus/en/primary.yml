@@ -1,7 +1,7 @@
 ---
 title: Primary menu
 items:
-- title: Programme 2023
+- title: 2023 Edition
   target: "/programme-2023/"
   kind: page
   children: []
