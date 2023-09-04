@@ -1,10 +1,6 @@
 ---
 title: Primary menu
 items:
-- title: 2023 Edition
-  target: "/programme-2023/"
-  kind: page
-  children: []
 - title: Degrowth
   target: "/degrowth/"
   kind: page
@@ -15,6 +11,10 @@ items:
   children: []
 - title: Location
   target: "/location/"
+  kind: page
+  children: []
+- title: 2023 Edition
+  target: "/programme-2023/"
   kind: page
   children: []
 - title: 2022 Edition
