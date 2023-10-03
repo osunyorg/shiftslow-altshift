@@ -1,5 +1,10 @@
+[build]
+  publish = "public"
+  command = "yarn build"
+
 [build.environment]
-  HUGO_VERSION = "0.111.3"
+  HUGO_VERSION = "0.119.0"
+
 [[headers]]
   for = "/*"
   [headers.values]
