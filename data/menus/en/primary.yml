@@ -17,10 +17,10 @@ items:
     target: "/programme-2023/"
     kind: page
     children: []
-  - title: 2022 Edition
-    target: "/programme/"
-    kind: page
-    children: []
+- title: 2022 Edition
+  target: "/programme/"
+  kind: page
+  children: []
 - title: Location
   target: "/location/"
   kind: page
