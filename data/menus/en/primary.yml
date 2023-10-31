@@ -5,6 +5,10 @@ items:
   target: "/degrowth/"
   kind: page
   children: []
+- title: Editions
+  target: ''
+  kind: blank
+  children: []
 - title: 2024 Edition
   target: "/2024-edition/"
   kind: page
@@ -32,9 +36,5 @@ items:
 - title: Blog
   target: "/actualites/"
   kind: page
-  children: []
-- title: Editions
-  target: ''
-  kind: blank
   children: []
 
