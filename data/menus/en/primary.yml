@@ -29,4 +29,8 @@ items:
   target: "/donate/"
   kind: page
   children: []
+- title: Blog
+  target: "/actualites/"
+  kind: page
+  children: []
 
