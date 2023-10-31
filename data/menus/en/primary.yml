@@ -5,6 +5,10 @@ items:
   target: "/degrowth/"
   kind: page
   children: []
+- title: 2024 Edition
+  target: ''
+  kind: blank
+  children: []
 - title: 2023 Edition
   target: "/programme-2023/"
   kind: page
