@@ -17,7 +17,7 @@ items:
   target: "/location/"
   kind: page
   children: []
-- title: ShiftSlow
+- title: About Us
   target: "/team/"
   kind: page
   children: []
