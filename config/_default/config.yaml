@@ -9,7 +9,7 @@ params:
   breadcrumb:
     position: after-hero
   logo:
-    header: "/assets/images/logo.svg"
-    footer: "/assets/images/logo-dark.svg"
+    header: "/assets/images/logo.png"
+    footer: "/assets/images/logo-dark.png"
   search:
     active: true
