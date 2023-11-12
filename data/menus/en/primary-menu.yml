@@ -21,4 +21,8 @@ items:
   target: "/2024-edition/"
   kind: page
   children: []
+- title: Location
+  target: "/location/"
+  kind: page
+  children: []
 
