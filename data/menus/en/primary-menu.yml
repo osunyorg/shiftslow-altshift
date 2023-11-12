@@ -25,4 +25,8 @@ items:
   target: "/location/"
   kind: page
   children: []
+- title: 'About Us '
+  target: "/team/"
+  kind: page
+  children: []
 
