@@ -9,4 +9,8 @@ items:
   target: ''
   kind: blank
   children: []
+- title: 2022 Edition
+  target: "/programme/"
+  kind: page
+  children: []
 
