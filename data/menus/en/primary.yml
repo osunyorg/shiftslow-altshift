@@ -24,17 +24,17 @@ items:
 - title: Location
   target: "/location/"
   kind: page
-  children: []
-- title: About Us
-  target: "/team/"
-  kind: page
-  children: []
+  children:
+  - title: About Us
+    target: "/team/"
+    kind: page
+    children: []
 - title: Donate
   target: "/donate/"
   kind: page
-  children: []
-- title: Blog
-  target: "/actualites/"
-  kind: page
-  children: []
+  children:
+  - title: Blog
+    target: "/actualites/"
+    kind: page
+    children: []
 
