@@ -5,4 +5,8 @@ items:
   target: "/degrowth/"
   kind: page
   children: []
+- title: Editions
+  target: ''
+  kind: blank
+  children: []
 
