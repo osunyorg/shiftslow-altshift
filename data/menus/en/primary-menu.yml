@@ -13,12 +13,12 @@ items:
     target: "/2024-edition/"
     kind: page
     children: []
-  - title: 2022 Edition
-    target: "/programme/"
-    kind: page
-    children: []
   - title: 2023 Edition
     target: "/programme-2023/"
+    kind: page
+    children: []
+  - title: 2022 Edition
+    target: "/programme/"
     kind: page
     children: []
 - title: Location
