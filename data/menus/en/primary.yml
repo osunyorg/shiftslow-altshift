@@ -29,7 +29,7 @@ items:
   target: "/team/"
   kind: page
   children: []
-- title: Donate
+- title: Crafts
   target: "/donate/"
   kind: page
   children: []
