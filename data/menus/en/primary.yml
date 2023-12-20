@@ -21,10 +21,6 @@ items:
     target: "/programme/"
     kind: page
     children: []
-  - title: '2025'
-    target: "/facilities/"
-    kind: page
-    children: []
 - title: Location
   target: "/location/"
   kind: page
