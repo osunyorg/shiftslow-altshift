@@ -5,6 +5,10 @@ items:
   target: "/degrowth/"
   kind: page
   children: []
+- title: Tickets
+  target: "/tickets/"
+  kind: page
+  children: []
 - title: Editions
   target: ''
   kind: blank
@@ -35,10 +39,6 @@ items:
   children: []
 - title: Blog
   target: "/actualites/"
-  kind: page
-  children: []
-- title: Tickets
-  target: "/tickets/"
   kind: page
   children: []
 
