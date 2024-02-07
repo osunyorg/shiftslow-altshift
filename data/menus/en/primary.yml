@@ -37,4 +37,8 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+- title: Tickets
+  target: "/tickets/"
+  kind: page
+  children: []
 
