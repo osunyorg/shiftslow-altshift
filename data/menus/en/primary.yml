@@ -14,7 +14,7 @@ items:
   kind: blank
   children:
   - title: 2024 Edition
-    target: "/2024-edition/"
+    target: "/festival-editions/2024-edition/"
     kind: page
     children: []
   - title: 2023 Edition
