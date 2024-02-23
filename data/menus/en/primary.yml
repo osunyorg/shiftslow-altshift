@@ -8,7 +8,11 @@ items:
 - title: Tickets
   target: "/tickets/"
   kind: page
-  children: []
+  children:
+  - title: Scholarships
+    target: "/tickets/scholarships/"
+    kind: page
+    children: []
 - title: Editions
   target: ''
   kind: blank
