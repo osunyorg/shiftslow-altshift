@@ -22,7 +22,7 @@ items:
     kind: page
     children: []
   - title: 2022 Edition
-    target: "/programme/"
+    target: "/festival-editions/programme/"
     kind: page
     children: []
 - title: Location
