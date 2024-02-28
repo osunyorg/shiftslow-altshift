@@ -41,7 +41,7 @@ items:
   target: "/team/"
   kind: page
   children: []
-- title: Crafts
+- title: Donate
   target: "/donate/"
   kind: page
   children: []
