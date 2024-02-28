@@ -5,12 +5,16 @@ items:
   target: "/degrowth/"
   kind: page
   children: []
-- title: Tickets
-  target: "/tickets/"
-  kind: page
+- title: Get Your Tickets!
+  target: ''
+  kind: blank
   children:
+  - title: Buy Tickets
+    target: "/get-your-tickets/tickets/"
+    kind: page
+    children: []
   - title: Scholarships
-    target: "/tickets/scholarships/"
+    target: "/get-your-tickets/scholarships/"
     kind: page
     children: []
 - title: Editions
