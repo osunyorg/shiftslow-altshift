@@ -13,3 +13,5 @@ params:
     footer: "/assets/images/logo-dark.png"
   search:
     active: true
+  debug:
+     productionUrl: "https://www.altshiftfestival.org"
