@@ -34,7 +34,7 @@ items:
     kind: page
     children: []
 - title: Location
-  target: "/festival-editions/2024-edition/location/"
+  target: "/location/"
   kind: page
   children: []
 - title: 'About Us '
