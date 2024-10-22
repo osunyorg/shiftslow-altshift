@@ -62,15 +62,23 @@ contents_reading_time:
   text: >-
     less than a minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       First Edition of the degrowth festival
-    slug: "first-edition-of-the-degrowth-festival"
-    position: 1
-    rank: 2
+    slug: >-
+      first-edition-of-the-degrowth-festival
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: video
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -108,6 +116,8 @@ contents:
     template: pages
     title: >-
       Workshops
+    slug: >-
+      workshops
     ranks:
       self: 3
       children: 4
@@ -147,7 +157,6 @@ contents:
           slug: "climate-education"
           file: "pages/workshops/climate-education/_index.html"
           external: false
-
 
 
 
