@@ -7,15 +7,30 @@ en:
   languageCode: en
   languageName: English
   params:
-    social:
-      email: >-
-        altshift.festival@tutanota.com
-      x: >-
-        https://twitter.com/festival_alt
-      youtube: >-
-        https://www.youtube.com/@altshiftfestival
-      instagram: >-
-        https://www.instagram.com/altshift.festival/
+    contact_details:
+      emails:
+        email:
+          label: >-
+            altshift.festival@tutanota.com
+          value: >-
+            mailto:altshift.festival@tutanota.com
+      social_networks:
+        instagram:
+          label: >-
+            altshift.festival
+          value: >-
+            https://instagram.com/altshift.festival
+        x:
+          label: >-
+            festival_alt
+          value: >-
+            https://x.com/festival_alt
+        youtube:
+          label: >-
+            altshiftfestival
+          value: >-
+            https://www.youtube.com/@altshiftfestival
+
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
