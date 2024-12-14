@@ -5,10 +5,12 @@ items:
   target: "/legal/"
   kind: page
   children: []
+  path: "/pages/legal"
   file: content/en/pages/legal/_index.html
 - title: Privacy policy
   target: "/privacy-policy/"
   kind: page
   children: []
+  path: "/pages/privacy-policy"
   file: content/en/pages/privacy-policy/_index.html
 

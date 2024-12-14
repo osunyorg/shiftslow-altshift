@@ -5,6 +5,7 @@ items:
   target: "/degrowth/"
   kind: page
   children: []
+  path: "/pages/degrowth"
   file: content/en/pages/degrowth/_index.html
 - title: Get Your Tickets!
   target: ''
@@ -14,11 +15,13 @@ items:
     target: "/get-your-tickets/tickets/"
     kind: page
     children: []
+    path: "/pages/get-your-tickets/tickets"
     file: content/en/pages/get-your-tickets/tickets/_index.html
   - title: Scholarships
     target: "/get-your-tickets/scholarships/"
     kind: page
     children: []
+    path: "/pages/get-your-tickets/scholarships"
     file: content/en/pages/get-your-tickets/scholarships/_index.html
 - title: Editions
   target: ''
@@ -28,35 +31,42 @@ items:
     target: "/festival-editions/2024-edition/"
     kind: page
     children: []
+    path: "/pages/festival-editions/2024-edition"
     file: content/en/pages/festival-editions/2024-edition/_index.html
   - title: 2023 Edition
     target: "/festival-editions/programme-2023/"
     kind: page
     children: []
+    path: "/pages/festival-editions/programme-2023"
     file: content/en/pages/festival-editions/programme-2023/_index.html
   - title: 2022 Edition
     target: "/festival-editions/programme/"
     kind: page
     children: []
+    path: "/pages/festival-editions/programme"
     file: content/en/pages/festival-editions/programme/_index.html
 - title: Location
   target: "/location/"
   kind: page
   children: []
+  path: "/pages/location"
   file: content/en/pages/location/_index.html
 - title: 'About Us '
   target: "/team/"
   kind: page
   children: []
+  path: "/pages/team"
   file: content/en/pages/team/_index.html
 - title: Donate
   target: "/donate/"
   kind: page
   children: []
+  path: "/pages/donate"
   file: content/en/pages/donate/_index.html
 - title: Blog
   target: "/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/en/posts/_index.html
 
