@@ -4,9 +4,11 @@ items:
 - title: Instagram
   target: https://www.instagram.com/altshift.festival/
   kind: url
+  new_tab: true
   children: []
 - title: Twitter
   target: https://twitter.com/festival_alt
   kind: url
+  new_tab: true
   children: []
 
