@@ -6,9 +6,4 @@ items:
   kind: url
   new_tab: true
   children: []
-- title: Twitter
-  target: https://twitter.com/festival_alt
-  kind: url
-  new_tab: true
-  children: []
 
