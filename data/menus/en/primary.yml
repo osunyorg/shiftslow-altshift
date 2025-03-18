@@ -9,10 +9,12 @@ items:
   path: "/pages/degrowth"
   file: content/en/pages/degrowth/_index.html
 - title: Get Your Tickets
-  target: ''
-  kind: blank
+  target: "/get-your-tickets/"
+  kind: page
   new_tab: false
   children: []
+  path: "/pages/get-your-tickets"
+  file: content/en/pages/get-your-tickets/_index.html
 - title: Editions
   target: ''
   kind: blank
