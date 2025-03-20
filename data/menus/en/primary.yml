@@ -8,7 +8,7 @@ items:
   children: []
   path: "/pages/degrowth"
   file: content/en/pages/degrowth/_index.html
-- title: Get Your Tickets
+- title: Tickets
   target: "/get-your-tickets/"
   kind: page
   new_tab: false
