@@ -20,11 +20,6 @@ items:
   kind: blank
   new_tab: false
   children:
-  - title: 2025 Edition
-    target: ''
-    kind: blank
-    new_tab: false
-    children: []
   - title: 2024 Edition
     target: "/festival-editions/2024-edition/"
     kind: page
