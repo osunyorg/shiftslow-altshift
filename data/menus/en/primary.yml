@@ -20,6 +20,11 @@ items:
   kind: blank
   new_tab: false
   children:
+  - title: 2025 Edition
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
   - title: 2024 Edition
     target: "/festival-editions/2024-edition/"
     kind: page
@@ -41,11 +46,6 @@ items:
     children: []
     path: "/pages/festival-editions/programme"
     file: content/en/pages/festival-editions/programme/_index.html
-  - title: 2025 Edition
-    target: ''
-    kind: blank
-    new_tab: false
-    children: []
 - title: Location
   target: "/location/"
   kind: page
