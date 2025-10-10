@@ -21,33 +21,33 @@ items:
   new_tab: false
   children:
   - title: 2025 Edition
-    target: "/festival-editions/2025-edition/"
+    target: "/2025-edition/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/festival-editions/2025-edition"
-    file: content/en/pages/festival-editions/2025-edition/_index.html
+    path: "/pages/2025-edition"
+    file: content/en/pages/2025-edition/_index.html
   - title: 2024 Edition
-    target: "/festival-editions/2024-edition/"
+    target: "/2024-edition/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/festival-editions/2024-edition"
-    file: content/en/pages/festival-editions/2024-edition/_index.html
+    path: "/pages/2024-edition"
+    file: content/en/pages/2024-edition/_index.html
   - title: 2023 Edition
-    target: "/festival-editions/programme-2023/"
+    target: "/programme-2023/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/festival-editions/programme-2023"
-    file: content/en/pages/festival-editions/programme-2023/_index.html
+    path: "/pages/programme-2023"
+    file: content/en/pages/programme-2023/_index.html
   - title: 2022 Edition
-    target: "/festival-editions/programme/"
+    target: "/programme/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/festival-editions/programme"
-    file: content/en/pages/festival-editions/programme/_index.html
+    path: "/pages/programme"
+    file: content/en/pages/programme/_index.html
 - title: Location
   target: "/location/"
   kind: page
