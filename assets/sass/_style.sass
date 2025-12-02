@@ -1,14 +1,15 @@
-.page__home
-    .hero--no-margin + .document-content
-        margin-top: 0
+.document-content
+    > .blocks
+        .block:first-child.block-image
+            margin-top: 0
+
 .block-pages 
-    .grid,
-    .cards
+    .pages
         article
             .media
                 img
                     aspect-ratio: auto
-@media(min-width: 1280px)
-    main > .blocks .block-pages--grid .grid, 
-    body.full-width .block-pages--grid .grid
-        grid-template-columns: repeat(4, 1fr)
+
+main > .blocks .block-pages--grid .pages, 
+body.full-width .block-pages--grid .pages
+    @include grid(4, desktop)
