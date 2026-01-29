@@ -13,6 +13,13 @@ items:
   kind: blank
   new_tab: false
   children:
+  - title: 2026 Edition
+    target: "/2026-edition/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/2026-edition"
+    file: content/en/pages/2026-edition/_index.html
   - title: 2025 Edition
     target: "/2025-edition/"
     kind: page
