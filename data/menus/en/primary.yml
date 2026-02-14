@@ -2,85 +2,114 @@
 title: Primary menu
 items:
 - title: Degrowth
+  slug: degrowth
   target: "/degrowth/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/degrowth"
   file: content/en/pages/degrowth/_index.html
 - title: Editions
+  slug: editions
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: 2026 Edition
+    slug: 2026-edition
     target: "/2026-edition/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/2026-edition"
     file: content/en/pages/2026-edition/_index.html
   - title: 2025 Edition
+    slug: 2025-edition
     target: "/2025-edition/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/2025-edition"
     file: content/en/pages/2025-edition/_index.html
   - title: 2024 Edition
+    slug: 2024-edition
     target: "/2024-edition/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/2024-edition"
     file: content/en/pages/2024-edition/_index.html
   - title: 2023 Edition
+    slug: 2023-edition
     target: "/programme-2023/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/programme-2023"
     file: content/en/pages/programme-2023/_index.html
   - title: 2022 Edition
+    slug: 2022-edition
     target: "/programme/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/programme"
     file: content/en/pages/programme/_index.html
+  descendants_targets:
+  - "/2024-edition/"
+  - "/2025-edition/"
+  - "/2026-edition/"
+  - "/programme-2023/"
+  - "/programme/"
 - title: Location
+  slug: location
   target: "/location/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/location"
   file: content/en/pages/location/_index.html
 - title: 'About Us '
+  slug: about-us
   target: "/team/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/team"
   file: content/en/pages/team/_index.html
 - title: Donate
+  slug: donate
   target: "/donate/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/donate"
   file: content/en/pages/donate/_index.html
 - title: Blog
+  slug: blog
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/en/posts/_index.html
 - title: Gallery
+  slug: gallery
   target: "/gallery/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/gallery"
   file: content/en/pages/gallery/_index.html
 
