@@ -7,6 +7,11 @@ osuny:
   website:
     id: 21127503-0edc-45d8-9095-0995548df6e1
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "altshiftfestival.org"
+
 ## LANGUAGE
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
