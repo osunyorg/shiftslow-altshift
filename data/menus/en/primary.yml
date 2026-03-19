@@ -10,15 +10,6 @@ items:
   descendants_targets: []
   path: "/pages/degrowth"
   file: content/en/pages/degrowth/_index.html
-- title: Tickets
-  slug: tickets
-  target: "/get-your-tickets/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/get-your-tickets"
-  file: content/en/pages/get-your-tickets/_index.html
 - title: Editions
   slug: editions
   target: ''
@@ -76,6 +67,15 @@ items:
   - "/2026-edition/"
   - "/programme-2023/"
   - "/programme/"
+- title: Tickets
+  slug: tickets
+  target: "/get-your-tickets/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/get-your-tickets"
+  file: content/en/pages/get-your-tickets/_index.html
 - title: Location
   slug: location
   target: "/location/"
