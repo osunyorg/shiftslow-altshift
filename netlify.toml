@@ -11,3 +11,180 @@
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "0"
     X-Content-Type-Options = "nosniff"
+
+[[redirects]]
+  from = "/programme-2023/self-organization/"
+  to = "/festival-editions/programme-2023/self-organization/"
+
+[[redirects]]
+  from = "/tickets/scholarships/"
+  to = "/get-your-tickets/scholarships/"
+
+[[redirects]]
+  from = "/the-thematic-streams/food-sovereignty/"
+  to = "/workshops/food-sovereignty/"
+
+[[redirects]]
+  from = "/self-organization/"
+  to = "/festival-editions/programme-2023/self-organization/"
+
+[[redirects]]
+  from = "/equipe-editoriale/"
+  to = "/equipe/equipe-editoriale/"
+
+[[redirects]]
+  from = "/programme-2023/music/"
+  to = "/festival-editions/programme-2023/music/"
+
+[[redirects]]
+  from = "/2025-edition/program/"
+  to = "/festival-editions/2025-edition/program/"
+
+[[redirects]]
+  from = "/the-thematic-streams/live-music-adama-dicko-seno-blues/"
+  to = "/workshops/live-music-adama-dicko-seno-blues/"
+
+[[redirects]]
+  from = "/festival-editions/2024-edition/location/"
+  to = "/location/"
+
+[[redirects]]
+  from = "/facilities/"
+  to = "/festival-editions/programme-2023/facilities/"
+
+[[redirects]]
+  from = "/programme/"
+  to = "/festival-editions/programme/"
+
+[[redirects]]
+  from = "/festival-editions/location-1/"
+  to = "/festival-editions/2024-edition/location-1/"
+
+[[redirects]]
+  from = "/scholarships/"
+  to = "/get-your-tickets/scholarships/"
+
+[[redirects]]
+  from = "/the-thematic-streams/prosocial-commons/"
+  to = "/workshops/prosocial-commons/"
+
+[[redirects]]
+  from = "/2024-edition/"
+  to = "/festival-editions/2024-edition/"
+
+[[redirects]]
+  from = "/2024-edition/awareness/"
+  to = "/festival-editions/2024-edition/awareness/"
+
+[[redirects]]
+  from = "/the-thematic-streams/embodied-decoloniality/"
+  to = "/workshops/embodied-decoloniality/"
+
+[[redirects]]
+  from = "/the-thematic-streams/unbuilding-degrowth/"
+  to = "/workshops/unbuilding-degrowth/"
+
+[[redirects]]
+  from = "/2024-edition/open-call/"
+  to = "/festival-editions/2024-edition/open-call/"
+
+[[redirects]]
+  from = "/programme-2023/degrowth-introductions/"
+  to = "/festival-editions/programme-2023/degrowth-introductions/"
+
+[[redirects]]
+  from = "/2026-edition/"
+  to = "/festival-editions/2026-edition/"
+
+[[redirects]]
+  from = "/programme-2023/"
+  to = "/festival-editions/programme-2023/"
+
+[[redirects]]
+  from = "/location-1/"
+  to = "/festival-editions/2024-edition/location-1/"
+
+[[redirects]]
+  from = "/festival-editions/self-organization/"
+  to = "/festival-editions/programme-2023/self-organization/"
+
+[[redirects]]
+  from = "/programme-2023/workshops-1/"
+  to = "/festival-editions/programme-2023/workshops-1/"
+
+[[redirects]]
+  from = "/2024-edition/programme-2/"
+  to = "/festival-editions/2024-edition/programme-2/"
+
+[[redirects]]
+  from = "/programme-2023/a-good-time-for-all-care-concept/"
+  to = "/festival-editions/programme-2023/a-good-time-for-all-care-concept/"
+
+[[redirects]]
+  from = "/festival-editions/programme-2023/location/"
+  to = "/location/"
+
+[[redirects]]
+  from = "/workshops-1/"
+  to = "/festival-editions/programme-2023/workshops-1/"
+
+[[redirects]]
+  from = "/2024-edition/what-to-bring/"
+  to = "/festival-editions/2024-edition/what-to-bring/"
+
+[[redirects]]
+  from = "/the-thematic-streams/transformative-justice-and-accountability-practices/"
+  to = "/workshops/transformative-justice-and-accountability-practices/"
+
+[[redirects]]
+  from = "/programme-2023/curatorial-statement/"
+  to = "/festival-editions/programme-2023/curatorial-statement/"
+
+[[redirects]]
+  from = "/the-thematic-streams/climate-education/"
+  to = "/workshops/climate-education/"
+
+[[redirects]]
+  from = "/curatorial-statement/"
+  to = "/festival-editions/programme-2023/curatorial-statement/"
+
+[[redirects]]
+  from = "/2024-edition/location-1/"
+  to = "/festival-editions/2024-edition/location-1/"
+
+[[redirects]]
+  from = "/a-good-time-for-all-care-concept/"
+  to = "/festival-editions/programme-2023/a-good-time-for-all-care-concept/"
+
+[[redirects]]
+  from = "/music/"
+  to = "/festival-editions/programme-2023/music/"
+
+[[redirects]]
+  from = "/programme-2023/facilities/"
+  to = "/festival-editions/programme-2023/facilities/"
+
+[[redirects]]
+  from = "/degrowth-introductions/"
+  to = "/festival-editions/programme-2023/degrowth-introductions/"
+
+[[redirects]]
+  from = "/lara-stammen/"
+  to = "/equipe/lara-stammen/"
+
+[[redirects]]
+  from = "/lara-stammen/actualites/"
+  to = "/equipe/lara-stammen/actualites/"
+
+[[redirects]]
+  from = "/2025-edition/"
+  to = "/festival-editions/2025-edition/"
+
+[[redirects]]
+  from = "/festival-editions/what-to-bring/"
+  to = "/festival-editions/2024-edition/what-to-bring/"
+
+[[redirects]]
+  from = "/the-thematic-streams/political-theatre/"
+  to = "/workshops/political-theatre/"
+
